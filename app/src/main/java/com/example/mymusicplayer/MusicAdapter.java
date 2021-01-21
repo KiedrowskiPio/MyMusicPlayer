@@ -44,19 +44,6 @@ public class MusicAdapter extends RecyclerView.Adapter<MusicAdapter.MyViewHolder
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         holder.file_name.setText(mFiles.get(position).getTitle());
-//        byte[] image = getAlbumArt(mFiles.get(position).getPath());
-//        if (image != null)
-//        {
-//            Glide.with(mContext).asBitmap()
-//                    .load(image)
-//                    .into(holder.album_art);
-//        }
-//        else
-//        {
-//            Glide.with(mContext)
-//                    .load(R.drawable.sztuka)
-//                    .into(holder.album_art);
-//        }
         holder.itemView.setOnClickListener(new View.OnClickListener(){
 
             @Override
@@ -84,27 +71,4 @@ public class MusicAdapter extends RecyclerView.Adapter<MusicAdapter.MyViewHolder
          album_art = itemView.findViewById(R.id.music_img);
         }
     }
-
-//    private byte[] getAlbumArt(String uri)
-//    {
-//        byte[] art = new byte[0];
-//        FileInputStream input = null;
-//        try {
-//            input = new FileInputStream(uri);
-//            MediaMetadataRetriever retriever = new MediaMetadataRetriever();
-//            try {
-//                retriever.setDataSource(input.getFD());
-//                art = retriever.getEmbeddedPicture();
-//                retriever.release();
-//                return art;
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//        } catch (FileNotFoundException e) {
-//            e.printStackTrace();
-//        }
-////        mediaMetadataRetriever.setDataSource(input.getFD());
-//        return art;
-//
-//    }
 }
