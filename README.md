@@ -3,10 +3,10 @@ Projekt odtwarzacza muzycznego na zaliczenie przedmiotu Programowanie Aplikacji 
 
 ## Opis projektu
 
-Aplikacja odtwarzająca muzykę znajdującą się na telefonie
+Odtwarzacz muzyczny na smartfony z systemem Android
 
 ## W tej aplikacji można:
-* Wyświetlać bibliotekę w postaci listy z tytułami
+* Wyświetlać bibliotekę utworów w postaci listy z tytułami
 * Odtworzyć utwór wybierając punkt z listy
 * Podczas odtwarzania wyświetli się tytuł, wykonawca oraz okładka danego utworu
 * Zapałzować utwór
