@@ -16,37 +16,37 @@ Aplikacja odtwarzająca muzykę znajdującą się na telefonie
 
 ## Przykładowe zrzuty ekranu
 
-Zapytanie o dostęp do plików muzycznych:
+Zapytanie o dostęp do plików muzycznych: <br/>
 ![Permission popup](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/permission%20popup.png)
 
-Alokacja muzyki:
+Alokacja muzyki: <br/>
 ![Inserting data](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/Alokacja%20danych.png)
 
-Działanie przycisku play:
+Działanie przycisku play: <br/>
 ![Play button](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/play%20button.png)
 
-XML Template "activity_player":
+XML Template "activity_player": <br/>
 ![Xml template](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/player%20template.png)
 
-Mechanizm wyświetlania obrazu:
+Mechanizm wyświetlania obrazu: <br/>
 ![Image display](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/wyświetlanie%20obrazu.png)
 
-Mechanizm działania przycisku "następny":
+Mechanizm działania przycisku "następny": <br/>
 ![Next button](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/nextbtnClick.png)
 
-Wyświetlanie odtwarzacza:
+Wyświetlanie odtwarzacza: <br/>
 ![musicAdapter](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/Alokacja%20danych.png)
 
-Inicjacja przycisków:
+Inicjacja przycisków: <br/>
 ![Buttons init](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/all%20buttons.png)
 
-Konstruktor utworów:
+Konstruktor utworów: <br/>
 ![Constructor](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/konstruktor.png)
 
-Kalkulacja czasu trwania utworu:
+Kalkulacja czasu trwania utworu: <br/>
 ![Track length](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/kalkulacja%20długości%20utworu.png)
 
-Funkcja rozpisująca fragment:
+Funkcja rozpisująca fragment: <br/>
 ![List filler](https://github.com/KiedrowskiPio/MyMusicPlayer/blob/master/MMPlayer%20screenshots/funkcja%20rozpisująca%20fragment.png)
 
 ## Twórcy
